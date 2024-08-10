@@ -36,3 +36,7 @@ tkinter
 # Folders
 
 Some folders may be Nessesary so ignore them
+
+# Changes
+
+To see changes,see Changelog.txt
