@@ -1,0 +1,37 @@
+Changelog of Updates
+
+PyPep 1.0 (Aug 9) (Build 1000)
+#Official Non-public Release
+
+PyPep 1.1 (Aug 9) (Build 1005)
+#Added Weather app
+
+PyPep 1.2 (Aug 9) (Build 1010)
+#Added Calculator
+#Removed Unnecessary commands
+#Added new command
+
+PyPep 1.2.1 (Aug 9) (Build 1015)
+#Fixed some issues
+#Removed shut down and snooze,because it was all buggy
+#Planned Public Release Date: August 10
+
+PyPep 1.2.2 (Aug 9) (Build 1020)
+#Added loading text
+#Main loading screen changed
+#Added shut down back
+
+PyPep 1.2.2.1 (Aug 9) (Build 1021)
+#Added regedit.exe command
+
+PyPep OS 1.2.2.2 (Aug 9) (Build 1022)
+#Lower-case Letters support on menu
+#Extras tab
+#OS Name is now PyPep OS
+
+PyPep OS 1.2.2.3  (Aug 9) (Build 1023)
+#Added Help command
+
+PyPep OS 1.2.2.4  (Aug 10) (Build 1024)
+#Added TTS Program on Extras
+#Tweaks on the code
